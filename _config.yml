@@ -2,12 +2,11 @@
 
 # REQUIRED CHANGES
 # Edit next line, providing your own name.
-title: Molly Maluhia | Professional Portfolio
+title: Christian Pak | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://techfolios.github.io"
+url: "https://cpak2019.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/template"
-
+baseurl: ""
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
 bio-page-label: Resume
