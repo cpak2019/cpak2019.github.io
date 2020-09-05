@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bR.jpeg
+image: images/cR.png
 title: 3d Renders
 permalink: projects/blender
 date: 2019-12-01
