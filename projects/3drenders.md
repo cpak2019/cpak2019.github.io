@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/bR.jpeg
-title: Micromouse
+title: 3d Renders
 permalink: projects/blender
 date: 2019-12-01
 labels:
