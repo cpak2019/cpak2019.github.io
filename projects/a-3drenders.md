@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015-07-01
+image: images/bR.jpeg
+title: Renders
+permalink: projects/renders
+date: 2019-12-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Blender
+  - Photoscans
+summary: A few of the renders I created in blender in 2019
 ---
 
 <img class="ui medium right floated rounded image" src="/images/bR.jpeg">
