@@ -9,8 +9,8 @@ labels:
 ---
 I'm going to start off saying something I shouldn't, I don't think I'll ever be a software engineer 😅. I decided to take this class because it's listed as a prerequisite for ICS 435 (machine learning). But I didn't come in with any expectations. Honestly most software engineering jobs seem like some sick purgatory to me. It's probably related to laziness or maybe the tendency Kurt Vonnegut mentioned:
 <blockquote> “Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance.”
-<blockquote>
-Well to be fair for the same reasons the majority of engineering jobs also seem like a version of hell to me. Hence why I'm in this class. 
+<p>
+  Well to be fair for the same reasons the majority of engineering jobs also seem like a version of hell to me. Hence why I'm in this class. 
 
 I don't really have any specific set of skills that I'm trying to learn or experiences that I'm trying to have. Rather I'm trying to learn as much as I can to help me create whatever ideas I come up with. There's some evidence that you're thoughts are limited by thought and previous knowledge. And the reverse seems to be true where some of the most creative ideas are a combination of different influences. I'm in this class the same reason I'm in senior math major classes despite having no desire to pursue either field, to expand my knowledge and vocabulary of concepts.
 
