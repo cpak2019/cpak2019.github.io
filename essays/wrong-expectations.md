@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 I'm going to start off saying something I shouldn't, I don't think I'll ever be a software engineer 😅. I decided to take this class because it's listed as a prerequisite for ICS 435 (machine learning). But I didn't come in with any expectations. Honestly most software engineering jobs seem like some sick purgatory to me. It's probably related to laziness or maybe the tendency Kurt Vonnegut mentioned:
-<blockquote> “Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance.”
+> “Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance.”
   
   
 Well to be fair for the same reasons the majority of engineering jobs also seem like a version of hell to me. Hence why I'm in this class. 
