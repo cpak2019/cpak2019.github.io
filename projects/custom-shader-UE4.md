@@ -1,21 +1,20 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/cel4.png
+title: Firewatch Celshader rebuilt in UE4
 permalink: projects/micromouse
-date: 2015-07-01
+date: 2018-04-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - UE4
+  - Graphics Programing
+summary: Recreated the distance coloring shader used in the game Firewatch.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
+<img class="ui medium right floated rounded image" src="/images/cel1.png">
+<img class="ui medium right floated rounded image" src="/images/cel2.png">
+<img class="ui medium right floated rounded image" src="/images/cel3.png">
+<img class="ui medium right floated rounded image" src="/images/cel4.png">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 grid of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+This proram was created for the AP comp principals exam (although they didn't really know what it was 😅).
+The shader uses a 100x1 image as an input and adjusts the color of the scene based on the image. The shader considers every objects distance from the camera (the player) and will chose a coresponding color along the pixel strip based on the distance. The shader then adjusts the color of the object to be closer to that color. The overall effect is a kind of gradient fog effect where objects are tainted with different colors based on their distance away from you. A shader similar to this was used in the 2016 game firewatch.
