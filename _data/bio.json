@@ -71,5 +71,16 @@
       ]
     }
   ],
- 
+ "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Mechanical Engineering (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "August 2019",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ]
 }
