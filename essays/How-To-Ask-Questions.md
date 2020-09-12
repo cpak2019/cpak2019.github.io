@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui small right floated rounded image" src="/images/ques.jpg">
+<img class="ui large right floated rounded image" src="/images/ques.jpg">
 
 Having taught myself the basics of programming in middle school, when I was introduced to programming forums in highschool was sorta magical. How can the idea that you have access to the brains of an unfathomable number of people who are way more experienced than you not be a bit magical? But despite having used them countless times for questions, I've never posted a question myself. Part of this is my tendency to ask for help as a near last resort if I can afford the time (as I find you learn a lot more if you figure out the problem yourself and then analyze where your mental models failed then correct them). But the other part is the answer is almost always there. 
 
