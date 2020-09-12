@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 It works without semicolins 👍
-<img class="ui small right floated rounded image" src="/images/no semicolin.png">
+<img class="ui medium right floated rounded image" src="/images/no semicolin.png">
 
 After having used seven other programing languages, picking up one more shouldn't be a challenge right? While this isn't my first time touching Javascript (if messing around in Google Apps Scripts counts), the experience hasn't been too challenging so far. Although dynamically typed variables have already caused some errors. Also, console error commands have been a tad unhelpful. Overall the experience has felt similar to any other programing language. The structure of the language feels the same as java so far, but I haven't descended into the particulars yet.
 
