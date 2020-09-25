@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How to ask Questions
+title: New Rules
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-24
 labels:
