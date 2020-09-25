@@ -8,7 +8,7 @@ labels:
   - Coding Standards
   - Learning
 ---
-Goodbye my darling. I loved you from the first time I found out about your existence. Although I didn't always take you up, I knew you always had my back. I'm sorry our time together was so short and I'll always miss and love you. Goodbye option to not use a semicolin.
+Goodbye my darling. I loved you from the first time I found out about your existence. Although I didn't always take you up, I knew you always had my back. I'm sorry our time together was so short and I'll always miss and love you. Goodbye optional semicolin.
 
 
 <img class="ui large right floated rounded image" src="/images/noSemicolin.png">
