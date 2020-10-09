@@ -15,11 +15,11 @@ I've been somewhat confused by HTML. My understanding is html generally serves a
 When 3d modeling and animation was first being developed, most of the work was done manually. So when you see early 3d models they were generally created by manually specifying the faces. One of the earliest animated videos was created by Ed Catmull (who would later found Pixar). He created an animation of a hand by drawing triangles over a physical model then manually measuring and entering every point into a computer. Yet over the years, 3d modeling tools have changed over time to be more friendly to the user and better facilitate the process.
 
 
-Ed Catmull's 3d hand made in 1972
-<img class="ui medium right floated rounded image" src="/images/220px-ComputerAnimatedHand.png">
+Ed Catmull's 3d hand made in 1972<br/>
+<img class="ui medium right floated rounded image" src="/images/220px-ComputerAnimatedHand.png"><br/>
 
-A hand I sculpted during my junior year of highschool in a few hours
-<img class="ui medium right floated rounded image" src="/images/Screenshot 2020-10-08 230251.png">
+A hand I sculpted during my junior year of highschool in a few hours<br/>
+<img class="ui medium right floated rounded image" src="/images/Screenshot 2020-10-08 230251.png"><br/>
 
 HTML is a tool that doesn't really suit what it's making. The tool doesn't help the process and if anything introduces sources of confusion and errors. People don't create 3d models by manually typing out the models stl file, but we still create websites by writing out website elements like code. Even tools to make it easier (like semantic ui) are still working in HTML, and tools that don't use any HTML rely on prebuilt templates that constrain you. To my knowledge, there haven't been improvements to website development tools like there has to 3d modeling tools which is a bit confusing.  Well, not my circus. Not my monkeys.
 
