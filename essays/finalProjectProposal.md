@@ -26,7 +26,7 @@ Proposal 1: Reciprocity Ring
 
 Proposal 2: Class-specific wikis
 1. Overview (including “The problem” and “The solution”)
-  - Upper-division classes often build on topics and concepts taught in other courses. By the time you take the Uperdivision course it may have been years since you encountered that topic. To make matters worse most Wikipedia or other website entries on math or computer science seem to be written in a foreign language for PhD's by PhD's. For most people, it takes a while to dig through their old notes. Or they may not even have their notes on the topic.
+  - Upper-division classes often build on topics and concepts taught in other courses. By the time you take the Uperdivision course it may have been years since you encountered that topic. To make matters worse most Wikipedia or other website entries on math or computer science seem to be written in a foreign language for PhD's by PhD's. Wikipedia also gives a brief generalized overview of their topics. This approach doesn't work for concepts that apply to multiple topics. Also for most people, it takes a while to dig through their old notes. Or they may not even have their notes on the topic.
   My proposed solution to this is a wiki created and maintained by students.
 2. Mockup page ideas
   - Wiki organized by class, then topics, then concept. Concept pages can be shared under different topic categories, but have a different page for different classes. Example: page on differential equations will look different if you're in a physics class or in a math class but can easily switch between them).
