@@ -4,7 +4,7 @@ type: project
 image: images/1.png
 title: Engage Manoa
 permalink: projects/Engage-Manoa
-date: 2018-12-01
+date: 2020-12-01
 labels:
   - React
   - website
