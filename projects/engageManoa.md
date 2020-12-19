@@ -10,7 +10,7 @@ labels:
   - website
 summary:
 ---
-<img class="ui medium right floated rounded image" src="/images/1.png.png">
+<img class="ui medium right floated rounded image" src="/images/1.png">
 
 The Engage Manoa website is a centralized directory open to UH Manoa students looking for organizations and clubs. UH Manoa is home to many clubs and student organizations. but there isn’t currently a way to browse the different clubs digitally. The only option is the google spreadsheet which lists all of UH Manoa’s registered independent organizations. Engage Manoa is designed to offer an easily accessible online space for students to find up-to-date information regarding all campus organizations and clubs. Users can create a profile and have access to a full directory to find a club or organization based on their interests.
 
