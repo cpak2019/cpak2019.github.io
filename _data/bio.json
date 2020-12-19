@@ -15,20 +15,11 @@
       "region": "Hawaii"
     },
     "profiles": [
+
       {
-        "network": "github",
-        "username": "cpak2019",
-        "url": "http://github.com/cpak2019"
-      },
-      {
-        "network": "linkedin",
-        "username": "Christian Pak",
-        "url": "http://linkedin.com/in/christian-pak-aab0621b6"
-      },
-      {
-        "network": "instagram",
-        "username": "c.pak_",
-        "url": "http://instagram.com/c.pak_"
+        "network": "Portfolio",
+        "username": "Christian Pa",
+        "url": "https://www.notion.so/Christian-Pak-Portfolio-554fded38ce9497198e62aaeca8b3b52"
       }
     ]
   },
@@ -76,7 +67,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Mechanical Engineering (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "August 2019",
+      "startDate": "Fall 2019",
       "endDate": "Present",
       "gpa": "",
       "courses": [
