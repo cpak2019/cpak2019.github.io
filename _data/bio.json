@@ -17,7 +17,7 @@
     "profiles": [
 
       {
-        "network": "Portfolio",
+        "network": "Notion",
         "username": "Portfolio",
         "url": "https://www.notion.so/Christian-Pak-Portfolio-554fded38ce9497198e62aaeca8b3b52"
       }
@@ -61,7 +61,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Mechanical Engineering (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "F 2019",
+      "startDate": "Fall2019",
       "endDate": "Present",
       "gpa": "",
       "courses": [
